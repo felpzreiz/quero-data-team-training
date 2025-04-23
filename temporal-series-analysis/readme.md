@@ -2,8 +2,6 @@
 
 Este projeto faz parte de uma série de desafios para a equipe de Data da Quero Educação, com o objetivo de desenvolver habilidades em análise de dados, engenharia de dados, ciência de dados e estatística. Nesse desafio foi realizada a decomposição de uma série temporal de dados de vendas, considerando a influência de campanhas de marketing e feriados. O objetivo é entender os padrões de comportamento nas vendas ao longo do tempo e identificar possíveis sazonalidades, tendências e ruídos, bem como o impacto de fatores externos.
 
----
-
 ## Organização da Análise:
 
 1. **Carregamento e preparação dos dados**  
@@ -26,7 +24,7 @@ Este projeto faz parte de uma série de desafios para a equipe de Data da Quero 
      - Ruídos
 
 5. **Visualização da decomposição**
-   - Plots separados para cada componente, com design escuro e paleta de cores personalizada
+   - Plots separados para cada componente da deomposição.
 
 ---
 
@@ -38,7 +36,7 @@ A diferença entre as vendas em dias de campanhas promocionais e dias comuns foi
 **Feriados**  
 Notou-se que as vendas em dias de feriado foram **acima da média** em relação às vendas em dias normais, sugerindo uma oportunidade para reforçar as ações nessas datas.
 
-<div text-align="center">
+<div align="center">
 
 | Situação                  | Média de Vendas |
 |--------------------------|-----------------:|
