@@ -22,6 +22,7 @@ Este projeto faz parte de uma série de desafios para a equipe de Data da Quero 
      - Tendência
      - Sazonalidade
      - Ruídos
+   - O modelo de decomposição utilizado foi o Aditivo, uma vez que na série temporal a sazonalidade mostrou-se constante, sem oscilações com grandes variações ao longo do tempo.
 
 5. **Visualização da decomposição**
    - Plots separados para cada componente da deomposição.
